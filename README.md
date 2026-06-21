@@ -43,3 +43,6 @@ PUNish
 ```
 
 The bot will respond with a pun. That's it. Just something for my personal discord server. 
+
+<img width="704" height="130" alt="image" src="https://github.com/user-attachments/assets/463a0120-12ef-43a8-af4d-0a45531964e1" />
+
