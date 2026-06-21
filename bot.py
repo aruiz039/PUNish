@@ -2,6 +2,7 @@ import discord
 import aiohttp
 import os
 
+print("Available env vars:", [k for k in os.environ.keys()])
 TOKEN = os.environ["DISCORD_TOKEN"]
 
 intents = discord.Intents.default()
